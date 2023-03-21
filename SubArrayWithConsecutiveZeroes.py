@@ -13,4 +13,4 @@ class Solution:
                 total += (conseZero*(conseZero + 1))//2;
                 conseZero = 0;
         total += (conseZero*(conseZero + 1))//2;
-        return total;
+        return total;@ANshika70805656
